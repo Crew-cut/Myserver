@@ -1,0 +1,2 @@
+# Myserver
+hasAuthority
